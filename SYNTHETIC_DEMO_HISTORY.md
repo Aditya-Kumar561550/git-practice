@@ -27,3 +27,4 @@
 - Demo entry: 2025-05-03
 - Demo entry: 2025-05-10
 - Demo entry: 2025-05-17
+- Demo entry: 2025-05-24
