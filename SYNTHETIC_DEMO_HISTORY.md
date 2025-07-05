@@ -33,3 +33,4 @@
 - Demo entry: 2025-06-14
 - Demo entry: 2025-06-21
 - Demo entry: 2025-06-28
+- Demo entry: 2025-07-05
