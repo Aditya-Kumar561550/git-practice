@@ -41,3 +41,4 @@
 - Demo entry: 2025-08-09
 - Demo entry: 2025-08-16
 - Demo entry: 2025-08-23
+- Demo entry: 2025-08-30
