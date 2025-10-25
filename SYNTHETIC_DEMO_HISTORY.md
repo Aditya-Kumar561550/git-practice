@@ -49,3 +49,4 @@
 - Demo entry: 2025-10-04
 - Demo entry: 2025-10-11
 - Demo entry: 2025-10-18
+- Demo entry: 2025-10-25
