@@ -52,3 +52,4 @@
 - Demo entry: 2025-10-25
 - Demo entry: 2025-11-01
 - Demo entry: 2025-11-08
+- Demo entry: 2025-11-15
