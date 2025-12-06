@@ -55,3 +55,4 @@
 - Demo entry: 2025-11-15
 - Demo entry: 2025-11-22
 - Demo entry: 2025-11-29
+- Demo entry: 2025-12-06
