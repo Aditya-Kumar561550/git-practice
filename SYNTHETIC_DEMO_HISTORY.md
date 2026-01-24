@@ -62,3 +62,4 @@
 - Demo entry: 2026-01-03
 - Demo entry: 2026-01-10
 - Demo entry: 2026-01-17
+- Demo entry: 2026-01-24
