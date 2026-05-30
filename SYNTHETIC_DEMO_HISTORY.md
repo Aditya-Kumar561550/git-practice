@@ -80,3 +80,4 @@
 - Demo entry: 2026-05-09
 - Demo entry: 2026-05-16
 - Demo entry: 2026-05-23
+- Demo entry: 2026-05-30
