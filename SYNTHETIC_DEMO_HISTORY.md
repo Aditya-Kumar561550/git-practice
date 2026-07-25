@@ -88,3 +88,4 @@
 - Demo entry: 2026-07-04
 - Demo entry: 2026-07-11
 - Demo entry: 2026-07-18
+- Demo entry: 2026-07-25
