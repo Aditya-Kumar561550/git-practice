@@ -103,3 +103,4 @@
 - Demo entry: 2026-10-17
 - Demo entry: 2026-10-24
 - Demo entry: 2026-10-31
+- Demo entry: 2026-11-07
